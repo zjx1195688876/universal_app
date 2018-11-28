@@ -1,0 +1,32 @@
+{
+  "name": "universal_app",
+  "version": "1.0.0",
+  "description": "universal app of Vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "koa": "^2.6.2",
+    "vue": "^2.5.17",
+    "vue-server-renderer": "^2.5.17"
+  },
+  "devDependencies": {
+    "webpack": "^4.26.1"
+  },
+  "keywords": [
+    "universal_app",
+    "vue",
+    "ssr"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjx1195688876/universal_app.git"
+  },
+  "author": "zhangjinxin<15757116071@163.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zjx1195688876/universal_app/issues"
+  },
+  "homepage": "https://github.com/zjx1195688876/universal_app#readme"
+}
